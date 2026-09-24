@@ -11,7 +11,7 @@ set -euo pipefail
 # ==========================================================
 
 # ⚠️ Remplace cette URL par celle de ton propre repo une fois en ligne
-RAW_URL="https://raw.githubusercontent.com/<TON_PSEUDO>/<TON_REPO>/main/setup-db.sh"
+RAW_URL="https://raw.githubusercontent.com/ybabais/-setup-db-laravel/main/setup-db.sh"
 
 DEST="/usr/local/bin/setup-db"
 
